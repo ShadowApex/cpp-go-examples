@@ -1,5 +1,5 @@
 #include <iostream>
-#include "libhelloplugin.h"
+#include "libgohello.h"
 
 using namespace std;
 

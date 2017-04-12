@@ -1,1 +1,1 @@
-Program('helloworld', Glob('*.cpp'), LIBS=['helloplugin'], LIBPATH='.')
+Program('helloworld', Glob('*.cpp'), LIBS=['gohello'], LIBPATH='.')
