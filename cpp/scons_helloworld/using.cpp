@@ -2,8 +2,7 @@
 #include <vector>
 #include <string>
 #include <fstream>
-
-void sayhello(const char*);
+#include "../scons_hellolibrary/sayhello.h"
 
 using namespace std;
 

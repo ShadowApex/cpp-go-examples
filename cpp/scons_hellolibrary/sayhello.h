@@ -1,0 +1,1 @@
+void sayhello(const char*);
