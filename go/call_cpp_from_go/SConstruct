@@ -1,0 +1,6 @@
+# Build the library statically. This will output a *.o object file and *.a on
+# linux to be statically compiled into a program.
+Library('sayhello', Glob('*.cpp'))
+
+# Build as a shared library. This will output a *.so file on linux.
+#SharedLibrary('hellolibrary', Glob('*.cpp'))
