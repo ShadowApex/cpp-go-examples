@@ -1,0 +1,1 @@
+Program('helloworld', Glob('*.cpp'), LIBS=['hellolibrary'], LIBPATH='../scons_hellolibrary')
